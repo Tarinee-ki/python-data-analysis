@@ -35,7 +35,7 @@ python-data-analysis/
 
 The following graph presents the ultrasonic sensor measurements at different distances.
 
-![Ultrasonic Sensor Characteristic Curve](output/Maxbotix_Characteristic.png)
+![Ultrasonic Sensor Characteristic Curve](Maxbotix_Characteristic.png)
 
 The visualisation includes:
 - Multimeter measurements
